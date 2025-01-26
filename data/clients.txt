@@ -1,6 +1,6 @@
-abbas el zein,Nabatieh,abb442
-fadi barcha,Jounieh,fad221
-gibran yaacoub,Beirut Sassine,jib711
-mounir abla,Beirut Hamra,mou341
-sawsan khodor,Tripoli,saw811
-zeina el hajj,Saida Hlelieh,zei133
+Mounir Abla, Beirut Hamra, mou341
+Zeina El Hajj, Saida Hlelieh, zei133
+Fadi Barcha, Jounieh, fad221
+Abbas El Zein, Nabatieh, abb442
+Gibran Yaacoub, Beirut Sassine, jib711
+Sawsan Khodor, Tripoli, saw811
