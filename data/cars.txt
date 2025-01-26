@@ -1,0 +1,9 @@
+445643S,abb442,Toyota Camry,2010
+651223O,fad221,Mercedes-Benz 320E,2005
+763894O,fad221,Chevrolet Camaro,2014
+324564B,jib711,GMC Yukon,2013
+345435O,mou341,Honda Accord,2007
+45678,mou341,honda,2008
+234774T,saw811,Buick Cascada,2015
+234122B,zei133,Honda CRV,2008
+546777B,zei133,Porsche Cayenne,2015
